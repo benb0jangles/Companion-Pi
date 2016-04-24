@@ -34,10 +34,13 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - (More added as I get through the ones I have, feel free to message me if yours working)
 
 
-# Hardware Connections:
+# Basic Hardware Connection:
 ![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/pi2-connections.jpg)
 - This is how to connect all the system parts to enable .img (V1.0) to send video and send/receive data to a device (Laptop/PC/Tablet)
 - range is limited to the wifi connection range, so ensure you have enough range and also backup control using a normal RC radio controller to the APM/Pixhawk board
+
+# Advanced Hardware Connection:
+![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/pi2-connections2.jpg)
 
 # Software Connection:
 - There are many ways to skin a cat, as they say. The various ways will be offered in time as I write how-to. 
