@@ -5,12 +5,15 @@ This is a collection of Linux .img files to allow drone users to hook up to a Ra
 
 # Project Goals:
 I hope to create different .img files as I journey along which will allow users to perform different tasks depending upon which .img file they burn to their Micro SD card, insert into pi2, and boot. Simple!
+- some version goals include:
+- video and drone comms (V1.0)
+- OpenCV (Object detection & Avoidance) (V2.0)
+- Caffe (Object naming/identification) (V3.0)
 
 # Version 1.0 (All tested by me as working):
 - Raspbian Jessie (based upon Debian v8?) operating system
 - Gstreamer (For video transmission using pi camera)
 - MavProxy/Mavlink/DroneCode (For APM/Pixhawk communication)
-
 
 # Burning .img to SD Card:
 We will use Win32Diskimager software on Windows, available here: https://sourceforge.net/projects/win32diskimager/
