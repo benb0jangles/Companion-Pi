@@ -24,6 +24,12 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - insert into your pi2 and boot/power on
 - done!
 
+# USB wifi dongles used/tested (plug & play):
+![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/2016-04-24_001.jpg)
+- Ralink RT5370: cheap $2 readily available dongle to get you up and testing
+- (More added as I get through the ones I have, feel free to message me if yours working)
+
+
 # Connection to flight controller:
 ![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/RaspberryPi_Pixhawk_wiring1.jpg)
 This is how you connect an APM/Pixhawk flight board to a Raspberrypi2. In the image it shows a pixhawk, but the wiring is the same for APM - Just connect to the telemetry port (Or USB port if you change the baud rate for it)
