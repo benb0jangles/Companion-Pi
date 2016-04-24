@@ -9,6 +9,7 @@ I hope to create different .img files as I journey along which will allow users 
 - video and drone comms (V1.0)
 - OpenCV (Object detection & Avoidance) (V2.0)
 - Caffe (Object naming/identification) (V3.0)
+- Lidar (Object detection & avoidance) (V4.0)
 
 # Version 1.0 (All tested by me as working):
 - Raspbian Jessie (based upon Debian v8?) operating system
@@ -33,6 +34,5 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - (More added as I get through the ones I have, feel free to message me if yours working)
 
 
-# Connection to flight controller:
-![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/RaspberryPi_Pixhawk_wiring1.jpg)
-This is how you connect an APM/Pixhawk flight board to a Raspberrypi2. In the image it shows a pixhawk, but the wiring is the same for APM - Just connect to the telemetry port (Or USB port if you change the baud rate for it)
+# Connections:
+![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/pi2-connections.jpg)
