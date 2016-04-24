@@ -49,3 +49,5 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - - Using Mission Planner software & Video HUD on Windows Laptop
 - - Using Android Tower Beta software on Android Tablet
 - - Using Ubuntu & APM Planner software on Laptop (in beta)
+
+More will be added/edited as progress is made. Please send me PM me if you have changes/updates: email:i6mods@gmail.com RCgroups.com:Benbojangles Diydrones.com:Benbojangles Blog:http://dalybulge.blogspot.co.uk
