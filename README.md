@@ -1,7 +1,7 @@
 # Companion-Pi2
 ![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/ardupilot_logo.png)
 
-This is a collection of Linux .img files to allow drone users to hook up to a Raspberry Pi2 and further their drone experiences in various ways. All software is provided as-is and you assume all risks by using it. 
+This is a collection of Linux .img files to allow drone users to hook up to a Raspberry Pi2 and further their drone experiences in various ways. It is designed to allow non-linux users to get up and running without having to run terminal commands etc. All software is provided as-is and you assume all risks by using it. 
 
 # Project Goals:
 I hope to create different .img files as I journey along which will allow users to perform different tasks depending upon which .img file they burn to their Micro SD card, insert into pi2, and boot. Simple!
