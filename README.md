@@ -28,6 +28,10 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - insert into your pi2 and boot/power on
 - done!
 
+- SD Card used by me is a Transcend 'Premium 400x' Micro SD 16GB. It is working fine with Raspbian Jessie and it is quicker than other cards I have around.
+![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/sd%20card%2016gb.jpg)
+
+
 # USB wifi dongles used/tested (plug & play):
 ![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/2016-04-24_001.jpg)
 - Ralink RT5370: cheap $2 readily available dongle to get you up and testing
