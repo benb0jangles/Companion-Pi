@@ -12,7 +12,7 @@ I hope to create different .img files as I journey along which will allow users 
 - Lidar (Object detection & avoidance) (V4.0)
 
 # Version 1.0 (All tested by me as working):
-- Raspbian Jessie (based upon Debian v8?) operating system
+- Raspbian Jessie (based upon Debian v8?) operating system (others can be added when tested working)
 - Gstreamer (For video transmission using pi camera)
 - MavProxy/Mavlink/DroneCode (For APM/Pixhawk communication)
 
