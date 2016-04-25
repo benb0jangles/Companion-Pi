@@ -29,7 +29,7 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - done!
 
 - SD Card used by me is a Transcend 'Premium 400x' Micro SD 16GB. It is working fine with Raspbian Jessie and it is quicker than other cards I have around. It costs as low as £3.88 on amazon as of 25/04/2016.
-![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/sd%20card%2016gb.jpg)
+![]()
 
 
 # USB wifi dongles used/tested (plug & play):
