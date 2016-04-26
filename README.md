@@ -11,6 +11,11 @@ I hope to create different .img files as I journey along which will allow users 
 - Caffe (Object naming/identification) (V3.0)
 - Lidar (Object detection & avoidance) (V4.0)
 
+# Bucket List:
+- Complete dual streams when using Rpi2 + APM/Pixhawk + Pi camera
+- emi shielding of pi camera ribbon cable
+- testing different wifi modules/dongle
+
 # Version 1.0 (All tested by me as working):
 - Raspbian Jessie (based upon Debian v8?) operating system (others can be added when tested working)
 - Gstreamer (For video transmission using pi camera)
