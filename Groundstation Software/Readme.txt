@@ -3,7 +3,7 @@
 
 - You can simply install gstreamer onto whichever computer you are using - Windows/Mac/Linux
 
-- For Windows, install the x86 version: https://gstreamer.freedesktop.org/data/pkg/windows/1.8.1/gstreamer-1.0-x86-1.8.1.msi
+- For Windows, install the x86 version for 32-bit (x64 can be located for 64-bit): https://gstreamer.freedesktop.org/data/pkg/windows/1.8.1/gstreamer-1.0-x86-1.8.1.msi
 - For Mac: https://gstreamer.freedesktop.org/data/pkg/osx/1.8.1/gstreamer-1.0-1.8.1-x86_64.pkg
 - For Linux: sudo apt-get install gstreamer1.0-tools gstreamer1.0-plugins-good gstreamer1.0-plugins-bad  
 - For Android: QTGstreamerHUD.APK
