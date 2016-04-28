@@ -13,7 +13,7 @@ I hope to create different .img files as I journey along which will allow users 
 
 # Bucket List:
 - Complete dual streams when using Rpi2 + APM/Pixhawk + Pi camera
-- add error correction to udp
+- add UDT error correction to udp
 - emi shielding of pi camera ribbon cable
 - testing different wifi modules/dongle
 
