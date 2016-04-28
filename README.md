@@ -53,7 +53,6 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 
 # Software Connection:
 - There are many ways to skin a cat, as they say. The various ways will be offered in time as I write how-to. 
-- Basic methods include:
 
 - Manually using SSH & commands (fiddly and annoying)
 - Automatic 1-button-press connection (In development)
@@ -61,5 +60,8 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - - Using Mission Planner software & Video HUD on Windows Laptop
 - - Using Android Tower Beta software on Android Tablet
 - - Using Ubuntu & APM Planner software on Laptop (in beta)
+
+# Ground Hardware:
+- OpenWRT Wifi router
 
 More will be added/edited as progress is made. Please send me PM me if you have changes/updates or if you have made an .img file an blog to link to: email:i6mods@gmail.com RCgroups.com:Benbojangles Diydrones.com:Benbojangles Blog:http://dalybulge.blogspot.co.uk
