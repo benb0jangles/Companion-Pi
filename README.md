@@ -42,7 +42,7 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 ![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/2016-04-24_001.jpg)
 - Ralink RT5370: cheap $2 readily available dongle to get you up and testing
 - RealTek RTL8188CUS: another cheap $2 dongle with external antenna
-- (More added as I get through the ones I have, feel free to message me if yours working)
+- (More added as I get through the ones I have, feel free to message me if yours working #check using 'lsusb' command in pi terminal or ssh terminal)
 
 
 # Basic Hardware Connection:
