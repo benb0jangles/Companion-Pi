@@ -62,6 +62,6 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 
 # Ground Hardware:
 - OpenWRT Wifi router
-![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/gs3.jpg)
+![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/gs6.jpg)
 
 More will be added/edited as progress is made. Please send me PM me if you have changes/updates or if you have made an .img file an blog to link to: email:i6mods@gmail.com RCgroups.com:Benbojangles Diydrones.com:Benbojangles Blog:http://dalybulge.blogspot.co.uk
