@@ -22,4 +22,4 @@
 
 - I hope to add more features in future once the groundpi2 is complete, there will not be a need to setup IP.
 
-- Thanks, suggestions/future .img versions to i6mods@gmail.complete
+- Thanks, suggestions/future .img versions to i6mods@gmail.com
