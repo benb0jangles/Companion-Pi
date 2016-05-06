@@ -7,9 +7,10 @@ This is a collection of Linux .img files & Software to allow drone users to hook
 I hope to create different .img files as I journey along which will allow users to perform different tasks depending upon which .img file they burn to their Micro SD card, insert into pi2, and boot. Simple!
 - some version goals include:
 - video and drone comms (V1.0)
-- OpenCV (Object detection & Avoidance) (V2.0)
-- Caffe (Object naming/identification) (V3.0)
-- Lidar (Object detection & avoidance) (V4.0)
+- Auto Pi-Photo triggering & GPS Geotagging (V2.0)
+- OpenCV (Object detection & Avoidance) (V3.0)
+- Caffe (Object naming/identification) (V4.0)
+- Lidar (Object detection & avoidance) (V5.0)
 
 # Bucket List:
 - Complete dual streams when using Rpi2 + APM/Pixhawk + Pi camera
