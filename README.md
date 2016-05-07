@@ -3,6 +3,8 @@
 
 This is a collection of Linux .img files & Software to allow drone users to hook up to a Raspberry Pi2 and further their drone experiences in various ways. It is designed to allow non-linux users to get up and running without having to run terminal commands etc. All software is provided as-is and you assume all risks by using it. 
 
+The project is useable by many automated vehicle purposes and is created to help further open hardware and software use in unmanned vehicles. 
+
 # Project Goals:
 I hope to create different .img files as I journey along which will allow users to perform different tasks depending upon which .img file they burn to their Micro SD card, insert into pi2, and boot. Simple!
 - some version goals include:
