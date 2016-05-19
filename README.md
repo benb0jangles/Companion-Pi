@@ -30,7 +30,6 @@ I hope to create different .img files as I journey along which will allow users 
 - Raspbian Jessie (based upon Debian v8?) operating system (others can be added when tested working)
 - Gstreamer (For video transmission using pi camera)
 - MavProxy/Mavlink/DroneCode (For APM/Pixhawk communication)
-
 - Drone Pi .img file: https://github.com/benb0jangles/Companion-Pi/tree/master/APMPi%20img%20files/V1_0
 - Ground Pi .img file: <added here>
 
