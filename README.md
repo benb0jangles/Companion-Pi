@@ -5,6 +5,12 @@ This is a collection of Linux .img files & Software to allow drone users to hook
 
 The project may be utilised for many forms of automated vehicle purposes and is created to help further open hardware and software use in all unmanned vehicles. 
 
+# Tested and working with:
+- Raspberry Pi 2 
+- Pi 3 
+- Pi Zero V1.2 
+- Pi Zero V1.3
+
 # Project Goals:
 I hope to create different .img files as I journey along which will allow users to perform different tasks depending upon which .img file they burn to their Micro SD card, insert into pi, and boot. Simple!
 - some version goals include:
