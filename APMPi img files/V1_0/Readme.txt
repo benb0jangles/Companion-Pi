@@ -3,7 +3,7 @@
 # APMpi 2/3/Zero.img V1_0 by Benbojangles (06/05/2016)
 - This .img file is V1 of a project I am working on. It is available under creative Commons License.
 
-- This .img file is a custom raspbian image created for the Raspberry pi 2, it includes:
+- This .img file is a custom raspbian image created for the Raspberry pi, it includes:
 - Raspbian Jessie
 - Gstreamer
 - Mavproxy
