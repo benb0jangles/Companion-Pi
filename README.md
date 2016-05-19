@@ -31,6 +31,9 @@ I hope to create different .img files as I journey along which will allow users 
 - Gstreamer (For video transmission using pi camera)
 - MavProxy/Mavlink/DroneCode (For APM/Pixhawk communication)
 
+- Drone Pi .img file: https://github.com/benb0jangles/Companion-Pi/tree/master/APMPi%20img%20files/V1_0
+- Ground Pi .img file: <added here>
+
 # Burning .img to SD Card:
 We will use Win32Diskimager software on Windows, available here: https://sourceforge.net/projects/win32diskimager/
 
