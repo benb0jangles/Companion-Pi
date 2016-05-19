@@ -1,12 +1,12 @@
 # Companion-Pi2
 ![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/ardupilot_logo2.png)
 
-This is a collection of Linux .img files & Software to allow drone users to hook up to a Raspberry Pi2 and further their drone experiences in various ways. It is designed to allow non-linux users to get up and running without having to run terminal commands etc. All software is provided as-is and you assume all risks by using it. 
+This is a collection of Linux .img files & Software to allow drone users to hook up to a Raspberry Pi 2/3/Zero V1.2/1.3 and further their drone experiences in various ways. It is designed to allow non-linux users to get up and running without having to run terminal commands etc. All software is provided as-is and you assume all risks by using it. 
 
 The project may be utilised for many forms of automated vehicle purposes and is created to help further open hardware and software use in all unmanned vehicles. 
 
 # Project Goals:
-I hope to create different .img files as I journey along which will allow users to perform different tasks depending upon which .img file they burn to their Micro SD card, insert into pi2, and boot. Simple!
+I hope to create different .img files as I journey along which will allow users to perform different tasks depending upon which .img file they burn to their Micro SD card, insert into pi, and boot. Simple!
 - some version goals include:
 - video and drone comms (V1.0)
 - Auto Pi-Photo triggering & GPS Geotagging (V2.0)
@@ -31,10 +31,10 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - open the software and we have this menu:
 
 ![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/Win32DiskImager.png)
-- click the folder icon and select the pi2 .img file you have downloaded from this github repo
+- click the folder icon and select the pi .img file you have downloaded from this github repo
 - select the correct sd card using the device tab
 - click write, and wait for the progress bar to complete writing
-- insert into your pi2 and boot/power on
+- insert into your pi and boot/power on
 - done!
 
 - SD Card used by me is a Transcend 'Premium 400x' Micro SD 16GB. It is working fine with Raspbian Jessie and it is quicker than other cards I have around. It costs as low as £3.88 on amazon as of 25/04/2016.
