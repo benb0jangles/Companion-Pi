@@ -1,4 +1,4 @@
-# Companion-Pi2
+# Companion-Pi
 ![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/ardupilot_logo2.png)
 
 This is a collection of Linux .img files & Software to allow drone users to hook up to a Raspberry Pi 2/3/Zero V1.2/1.3 and further their drone experiences in various ways. It is designed to allow non-linux users to get up and running without having to run terminal commands etc. All software is provided as-is and you assume all risks by using it. 
