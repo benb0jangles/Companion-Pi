@@ -7,9 +7,9 @@ The project may be utilised for many forms of automated vehicle purposes and is 
 
 # Tested and working with:
 - Raspberry Pi 2 
-- Pi 3 
-- Pi Zero V1.2 
-- Pi Zero V1.3
+- Pi 3 (must do uart fix: https://www.raspberrypi.org/forums/viewtopic.php?t=138223)
+- Pi Zero V1.2 (no camera)
+- Pi Zero V1.3 (must use pi img v1.1)
 
 # Project Goals:
 I hope to create different .img files as I journey along which will allow users to perform different tasks depending upon which .img file they burn to their Micro SD card, insert into pi, and boot. Simple!
