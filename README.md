@@ -54,6 +54,7 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - Ralink RT5370: cheap $2 readily available dongle to get you up and testing
 - RealTek RTL8188CUS: another cheap $2 dongle with external antenna
 - (More added as I get through the ones I have, feel free to message me if yours working #check using 'lsusb' command in pi terminal or ssh terminal)
+- List here: https://github.com/benb0jangles/Companion-Pi/tree/master/Wifi%20Dongle%20List
 
 
 # Basic Hardware Connection:
