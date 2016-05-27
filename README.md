@@ -72,8 +72,8 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - - Using Ubuntu & APM Planner software on Laptop (in beta)
 
 # Ground Hardware:
-- OpenWRT Wifi router
-![](https://github.com/benb0jangles/Companion-Pi/blob/master/Images%20for%20readme/gs8.jpg)
+- Options
+![](https://github.com/benb0jangles/Companion-Pi/blob/master/Images%20for%20readme/2016-05-27_002.jpg)
 
 More will be added/edited as progress is made. Please send me PM me if you have changes/updates or if you have made an .img file an blog to link to: email:i6mods@gmail.com RCgroups.com:Benbojangles Diydrones.com:Benbojangles Blog:http://dalybulge.blogspot.co.uk
 
