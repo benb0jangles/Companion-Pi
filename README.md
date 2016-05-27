@@ -70,6 +70,7 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - - Using Mission Planner software & Video HUD on Windows Laptop
 - - Using Android Tower Beta software on Android Tablet
 - - Using Ubuntu & APM Planner software on Laptop (in beta)
+- - Using QTgstreamerHUD on Raspbian for hdmi fpv (in discussion)
 
 # Ground Hardware:
 - Options
