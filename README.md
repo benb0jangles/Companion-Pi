@@ -61,6 +61,16 @@ We will use Win32Diskimager software on Windows, available here: https://sourcef
 - (More added as I get through the ones I have, feel free to message me if yours working #check using 'lsusb' command in pi terminal or ssh terminal)
 - List here: https://github.com/benb0jangles/Companion-Pi/tree/master/Wifi%20Dongle%20List
 
+# Equipment Costs - If you are interested in this project and want to pick it up, here is a brief list of parts and costs I use
+- Pi Zero V1.3 (with camera port) £4.50 each
+- USB wifi dongle £1 each
+- Pi 2 £15 (on ebay)
+- micro SD cards (from) £1.50
+- pi camera £10
+- pi camera ribbon cable £2
+- Pi zero DIY USB Hub £1 (pound store)
+- 3D Printed cases (free as I have a printer)
+- Optional parts: U.fl antenna adapters, U.fl antennas, push-to-make switches, pin header wires, usb power, hdmi lead.
 
 # Basic Hardware Connection:
 ![](https://github.com/benb0jangles/Companion-Pi/blob/master/Images%20for%20readme/2016-05-19_0022.jpg)
