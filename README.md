@@ -20,10 +20,11 @@ I hope to create different .img files as I journey along which will allow users 
 - Caffe (Object naming/identification) (V4.0)
 - Lidar (Object detection & avoidance) (V5.0)
 
-# Bucket List:
-- Complete dual streams when using Rpi2 + APM/Pixhawk + Pi camera
+# Bucket List (to do list):
 - add UDT error correction to udp
-- emi shielding of pi camera ribbon cable
+- gps/photo geotagging python script
+- power-on/shutdown hardware buttons for both units
+- Auto connect script
 - testing different wifi modules/dongle
 
 # Version 1.0 (All tested by me as working):
