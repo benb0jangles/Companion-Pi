@@ -26,6 +26,7 @@ I hope to create different .img files as I journey along which will allow users 
 - power-on/shutdown hardware buttons for both units
 - Auto connect script
 - testing different wifi modules/dongle
+# Bucket List (stretch goal):
 - gamepad control??? 
 
 # Version 1.0 (All tested by me as working):
