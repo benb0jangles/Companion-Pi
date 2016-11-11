@@ -10,8 +10,9 @@ The project may be utilised for many forms of automated vehicle purposes (drone/
 
 # Project Goals:
 I hope to create different .img files as I journey along which will allow users to perform different tasks depending upon which .img file they burn to their Micro SD card, insert into pi, and boot. Simple!
-- some version goals include:
 - video and drone comms (V1)
+
+# Future Ideas:
 - Auto Pi-Photo triggering & GPS Geotagging (V2)
 - OpenCV (Object detection & Avoidance) (V3)
 - Caffe (Object naming/identification) (V4)
