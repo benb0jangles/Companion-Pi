@@ -1,6 +1,6 @@
 # Download Link: https://drive.google.com/open?id=0B1cVb3uX0f0dakFpaTAyVF9HV2s
 
-# Goggles_Pi_Zero_Jessie_Lite_V1_1 - Tested on Pi Zero V1.3 - Also (probably) working for pi2/3 by Benbojangles (27/05/2016)
+# Goggles_Pi_Zero_Jessie_Lite_V1_1 - Tested on Pi Zero V1.3 - by Benbojangles (01/11/2016)
 - This .img file is a project I am working on. It is available under creative Commons License.
 
 - This .img file is a custom raspbian image created for the Raspberry pi Zero, it includes:
@@ -8,7 +8,6 @@
 - Gstreamer
 - Mavproxy
 - SSH Enabled
-- Pi Camera enabled
 - Disabled O/S control of Serial port
 - Custom config.txt for performance
 - Static IP enabled
