@@ -18,6 +18,8 @@ I hope to create different .img files as I journey along which will allow users 
 - Caffe (Object naming/identification) (V4)
 - Lidar (Object detection & avoidance) (V5)
 
+![](https://github.com/benb0jangles/Companion-Pi2/blob/master/Images%20for%20readme/cnn1.png)
+
 # Bucket List (to do list):
 - add UDT error correction to udp
 - gps/photo geotagging python script
